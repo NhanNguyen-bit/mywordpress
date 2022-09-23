@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Bình luận cho My WordPress	</title>
+	<atom:link href="https://nhannguyen-bit.github.io/mywordpress/comments/feed/" rel="self" type="application/rss+xml" />
+	<link>https://nhannguyen-bit.github.io/mywordpress</link>
+	<description>Một trang web mới sử dụng WordPress</description>
+	<lastBuildDate>Fri, 26 Aug 2022 03:07:20 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0.2</generator>
+	<item>
+		<title>
+		Phản hồi cho Top 10 bộ phim cổ trang hay nhất năm 2022 bởi nguyenvannhan		</title>
+		<link>https://nhannguyen-bit.github.io/mywordpress/2022/08/19/top-10-bo-phim-co-trang-hay-nhat-nam-2022/#comment-5</link>
+
+		<dc:creator><![CDATA[nguyenvannhan]]></dc:creator>
+		<pubDate>Fri, 26 Aug 2022 03:07:20 +0000</pubDate>
+		<guid isPermaLink="false">https://nhannguyen-bit.github.io/mywordpress/?p=5#comment-5</guid>
+
+					<description><![CDATA[sbdhZVD áDvsAHDVgsAFDYTFasHBDhgcdgcah
+dhfsahDFasfcvabvsxfuZIHXBnASC]]></description>
+			<content:encoded><![CDATA[<p>sbdhZVD áDvsAHDVgsAFDYTFasHBDhgcdgcah<br />
+dhfsahDFasfcvabvsxfuZIHXBnASC</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Phản hồi cho Top 10 bộ phim cổ trang hay nhất năm 2022 bởi nguyenvannhan		</title>
+		<link>https://nhannguyen-bit.github.io/mywordpress/2022/08/19/top-10-bo-phim-co-trang-hay-nhat-nam-2022/#comment-2</link>
+
+		<dc:creator><![CDATA[nguyenvannhan]]></dc:creator>
+		<pubDate>Fri, 19 Aug 2022 13:41:07 +0000</pubDate>
+		<guid isPermaLink="false">https://nhannguyen-bit.github.io/mywordpress/?p=5#comment-2</guid>
+
+					<description><![CDATA[hay]]></description>
+			<content:encoded><![CDATA[<p>hay</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Phản hồi cho Chào tất cả mọi người! bởi Một người bình luận WordPress		</title>
+		<link>https://nhannguyen-bit.github.io/mywordpress/2022/08/19/chao-moi-nguoi/#comment-1</link>
+
+		<dc:creator><![CDATA[Một người bình luận WordPress]]></dc:creator>
+		<pubDate>Fri, 19 Aug 2022 05:04:01 +0000</pubDate>
+		<guid isPermaLink="false">https://nhannguyen-bit.github.io/mywordpress/?p=1#comment-1</guid>
+
+					<description><![CDATA[Hi, this is a comment.
+To get started with moderating, editing, and deleting comments, please visit the Comments screen in the dashboard.
+Commenter avatars come from &lt;a href=&quot;https://en.gravatar.com/&quot;&gt;Gravatar&lt;/a&gt;.]]></description>
+			<content:encoded><![CDATA[<p>Hi, this is a comment.<br />
+To get started with moderating, editing, and deleting comments, please visit the Comments screen in the dashboard.<br />
+Commenter avatars come from <a href="https://en.gravatar.com/">Gravatar</a>.</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>
