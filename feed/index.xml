@@ -18,11 +18,11 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.0.3</generator>
+	<generator>https://wordpress.org/?v=6.1</generator>
 	<item>
 		<title>Skincare</title>
 		<link>https://nhannguyen-bit.github.io/mywordpress/cac-san-pham-skincare-cho-da-dau-mun/</link>
-					<comments>https://nhannguyen-bit.github.io/mywordpress/cac-san-pham-skincare-cho-da-dau-mun/#respond</comments>
+					<comments>https://nhannguyen-bit.github.io/mywordpress/cac-san-pham-skincare-cho-da-dau-mun/#comments</comments>
 		
 		<dc:creator><![CDATA[nguyenvannhan]]></dc:creator>
 		<pubDate>Fri, 28 Oct 2022 17:28:47 +0000</pubDate>
@@ -51,7 +51,7 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"align":"center","width":330,"height":392} -->
-<figure class="wp-block-image aligncenter is-resized"><img src="https://media2.giphy.com/media/UpK7vXQiyiDbtdbTII/giphy.gif?cid=ecf05e47aej232ubl3jt352wsl92oxhkuldnyjxe056sb870&amp;rid=giphy.gif&amp;ct=g" alt="skinary skincare selfcare facemask skinary GIF" width="330" height="392"/></figure>
+<figure class="wp-block-image aligncenter is-resized"><img decoding="async" src="https://media2.giphy.com/media/UpK7vXQiyiDbtdbTII/giphy.gif?cid=ecf05e47aej232ubl3jt352wsl92oxhkuldnyjxe056sb870&amp;rid=giphy.gif&amp;ct=g" alt="skinary skincare selfcare facemask skinary GIF" width="330" height="392"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -63,7 +63,7 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"align":"center","id":1049,"sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image aligncenter size-full"><img loading="lazy" width="885" height="439" src="https://nhannguyen-bit.github.io/mywordpress/wp-content/uploads/2022/10/Cac-san-pham-skincare-cho-da-dau-mun-4.jpg" alt="Các sản phẩm skincare cho da dầu mụn" class="wp-image-1049"/></figure>
+<figure class="wp-block-image aligncenter size-full"><img decoding="async" loading="lazy" width="885" height="439" src="https://nhannguyen-bit.github.io/mywordpress/wp-content/uploads/2022/10/Cac-san-pham-skincare-cho-da-dau-mun-4.jpg" alt="Các sản phẩm skincare cho da dầu mụn" class="wp-image-1049"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:heading {"level":4} -->
@@ -75,7 +75,7 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"align":"center","id":1042,"sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image aligncenter size-full"><img loading="lazy" width="600" height="600" src="https://nhannguyen-bit.github.io/mywordpress/wp-content/uploads/2022/10/Cac-san-pham-skincare-cho-da-dau-mun-1.jpg" alt="Các sản phẩm skincare cho da dầu mụn" class="wp-image-1042"/></figure>
+<figure class="wp-block-image aligncenter size-full"><img decoding="async" loading="lazy" width="600" height="600" src="https://nhannguyen-bit.github.io/mywordpress/wp-content/uploads/2022/10/Cac-san-pham-skincare-cho-da-dau-mun-1.jpg" alt="Các sản phẩm skincare cho da dầu mụn" class="wp-image-1042"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -155,7 +155,7 @@
 <!-- /wp:heading -->
 
 <!-- wp:image {"align":"center","id":1043,"width":776,"height":595,"sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image aligncenter size-full is-resized"><img loading="lazy" src="https://nhannguyen-bit.github.io/mywordpress/wp-content/uploads/2022/10/Cac-san-pham-skincare-cho-da-dau-mun-2.jpg" alt="Các sản phẩm skincare cho da dầu mụn" class="wp-image-1043" width="776" height="595"/></figure>
+<figure class="wp-block-image aligncenter size-full is-resized"><img decoding="async" loading="lazy" src="https://nhannguyen-bit.github.io/mywordpress/wp-content/uploads/2022/10/Cac-san-pham-skincare-cho-da-dau-mun-2.jpg" alt="Các sản phẩm skincare cho da dầu mụn" class="wp-image-1043" width="776" height="595"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -199,7 +199,7 @@
 <!-- /wp:heading -->
 
 <!-- wp:image {"align":"center","id":1044,"sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image aligncenter size-full"><img loading="lazy" width="600" height="500" src="https://nhannguyen-bit.github.io/mywordpress/wp-content/uploads/2022/10/Cac-san-pham-skincare-cho-da-dau-mun-3.jpg" alt="Các sản phẩm skincare cho da dầu mụn" class="wp-image-1044"/></figure>
+<figure class="wp-block-image aligncenter size-full"><img decoding="async" loading="lazy" width="600" height="500" src="https://nhannguyen-bit.github.io/mywordpress/wp-content/uploads/2022/10/Cac-san-pham-skincare-cho-da-dau-mun-3.jpg" alt="Các sản phẩm skincare cho da dầu mụn" class="wp-image-1044"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -251,7 +251,7 @@
 <!-- /wp:list -->
 
 <!-- wp:image {"align":"center","id":1049,"sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image aligncenter size-full"><img loading="lazy" width="885" height="439" src="https://nhannguyen-bit.github.io/mywordpress/wp-content/uploads/2022/10/Cac-san-pham-skincare-cho-da-dau-mun-4.jpg" alt="Các sản phẩm skincare cho da dầu mụn" class="wp-image-1049"/></figure>
+<figure class="wp-block-image aligncenter size-full"><img decoding="async" loading="lazy" width="885" height="439" src="https://nhannguyen-bit.github.io/mywordpress/wp-content/uploads/2022/10/Cac-san-pham-skincare-cho-da-dau-mun-4.jpg" alt="Các sản phẩm skincare cho da dầu mụn" class="wp-image-1049"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:heading {"level":4} -->
@@ -274,7 +274,7 @@
 		]]></content:encoded>
 					
 					<wfw:commentRss>https://nhannguyen-bit.github.io/mywordpress/cac-san-pham-skincare-cho-da-dau-mun/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
+			<slash:comments>2</slash:comments>
 		
 		
 			</item>
@@ -320,7 +320,7 @@
 
 
 
-<figure class="wp-block-image size-full is-resized"><img loading="lazy" src="https://nhannguyen-bit.github.io/mywordpress/wp-content/uploads/2022/08/Chau-Dong-Vu-van-gay-tranh-cai-ve-nhan-sac-trong-anh-moi-cua-Thien-Co-Quyet-Tran.png" alt="" class="wp-image-10" width="648" height="441"/><figcaption><em>Thiên Cổ Quyết Trần là phim cổ trang rất được yêu mến và cũng đã đóng góp rất nhiều meme cho cộng đồng mạng.@Sưu tầm</em></figcaption></figure>
+<figure class="wp-block-image size-full is-resized"><img decoding="async" loading="lazy" src="https://nhannguyen-bit.github.io/mywordpress/wp-content/uploads/2022/08/Chau-Dong-Vu-van-gay-tranh-cai-ve-nhan-sac-trong-anh-moi-cua-Thien-Co-Quyet-Tran.png" alt="" class="wp-image-10" width="648" height="441"/><figcaption><em>Thiên Cổ Quyết Trần là phim cổ trang rất được yêu mến và cũng đã đóng góp rất nhiều meme cho cộng đồng mạng.@Sưu tầm</em></figcaption></figure>
 
 
 
@@ -332,7 +332,7 @@
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" width="1499" height="1102" src="https://nhannguyen-bit.github.io/mywordpress/wp-content/uploads/2022/08/Jin-Mi-Xu-Feng-from-Ashes-of-Love-2018-TV-Show.jpg" alt="" class="wp-image-11"/><figcaption><em>Bộ phim được xem là một trong những phim chuyển thể được lòng fan nguyên tác nhất.@Sưu tầm</em></figcaption></figure>
+<figure class="wp-block-image size-full"><img decoding="async" loading="lazy" width="1499" height="1102" src="https://nhannguyen-bit.github.io/mywordpress/wp-content/uploads/2022/08/Jin-Mi-Xu-Feng-from-Ashes-of-Love-2018-TV-Show.jpg" alt="" class="wp-image-11"/><figcaption><em>Bộ phim được xem là một trong những phim chuyển thể được lòng fan nguyên tác nhất.@Sưu tầm</em></figcaption></figure>
 
 
 
@@ -344,7 +344,7 @@
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" width="1280" height="960" src="https://nhannguyen-bit.github.io/mywordpress/wp-content/uploads/2022/08/462926e0-1534-4c45-8f7d-e9adf764fa2c.jpg" alt="" class="wp-image-13"/><figcaption><em>Dù dự án khi mới được giới thiệu có mang đến nhiều phản ứng phản đối nhưng rất nhanh đã được ủng hộ nhiệt liệt nhờ bám sát nguyên tác và tài diễn xuất của dàn diễn viên xinh đẹp.@Sưu tầm</em></figcaption></figure>
+<figure class="wp-block-image size-full"><img decoding="async" loading="lazy" width="1280" height="960" src="https://nhannguyen-bit.github.io/mywordpress/wp-content/uploads/2022/08/462926e0-1534-4c45-8f7d-e9adf764fa2c.jpg" alt="" class="wp-image-13"/><figcaption><em>Dù dự án khi mới được giới thiệu có mang đến nhiều phản ứng phản đối nhưng rất nhanh đã được ủng hộ nhiệt liệt nhờ bám sát nguyên tác và tài diễn xuất của dàn diễn viên xinh đẹp.@Sưu tầm</em></figcaption></figure>
 
 
 
@@ -356,7 +356,7 @@
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" width="690" height="518" src="https://nhannguyen-bit.github.io/mywordpress/wp-content/uploads/2022/08/99ba92b2-7a16-4bde-a0ed-607ce32bea1a.jpg" alt="" class="wp-image-14"/><figcaption><em>Bộ phim được xem là một trong những phim chuyển thể được lòng fan nguyên tác nhất.@Sưu tầm</em></figcaption></figure>
+<figure class="wp-block-image size-full"><img decoding="async" loading="lazy" width="690" height="518" src="https://nhannguyen-bit.github.io/mywordpress/wp-content/uploads/2022/08/99ba92b2-7a16-4bde-a0ed-607ce32bea1a.jpg" alt="" class="wp-image-14"/><figcaption><em>Bộ phim được xem là một trong những phim chuyển thể được lòng fan nguyên tác nhất.@Sưu tầm</em></figcaption></figure>
 
 
 
@@ -368,7 +368,7 @@
 
 
 
-<figure class="wp-block-image size-full is-resized"><img loading="lazy" src="https://nhannguyen-bit.github.io/mywordpress/wp-content/uploads/2022/08/Ngam-ve-dep-tien-nu-cua-Hoa-Thien-Cot-Trieu-Le-Dinh.jpg" alt="" class="wp-image-16" width="647" height="431"/><figcaption><em>Sự thành công của Hoa Thiên Cốt đã giúp Triệu Lệ Dĩnh thành một trong những nữ lưu hàng đầu.@Sưu tầm</em></figcaption></figure>
+<figure class="wp-block-image size-full is-resized"><img decoding="async" loading="lazy" src="https://nhannguyen-bit.github.io/mywordpress/wp-content/uploads/2022/08/Ngam-ve-dep-tien-nu-cua-Hoa-Thien-Cot-Trieu-Le-Dinh.jpg" alt="" class="wp-image-16" width="647" height="431"/><figcaption><em>Sự thành công của Hoa Thiên Cốt đã giúp Triệu Lệ Dĩnh thành một trong những nữ lưu hàng đầu.@Sưu tầm</em></figcaption></figure>
 
 
 
@@ -380,7 +380,7 @@
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" width="720" height="405" src="https://nhannguyen-bit.github.io/mywordpress/wp-content/uploads/2022/08/Dong-phuong-bat-bai.jpg" alt="" class="wp-image-18"/><figcaption>Tiếu Ngạo Gian Hồ là bộ phim tình cảm trinh thám phá án rất được lòng khán giả.@Sưu tầm</figcaption></figure>
+<figure class="wp-block-image size-full"><img decoding="async" loading="lazy" width="720" height="405" src="https://nhannguyen-bit.github.io/mywordpress/wp-content/uploads/2022/08/Dong-phuong-bat-bai.jpg" alt="" class="wp-image-18"/><figcaption>Tiếu Ngạo Gian Hồ là bộ phim tình cảm trinh thám phá án rất được lòng khán giả.@Sưu tầm</figcaption></figure>
 
 
 
@@ -392,7 +392,7 @@
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" width="720" height="631" src="https://nhannguyen-bit.github.io/mywordpress/wp-content/uploads/2022/08/8a32c8cd-ca06-4920-a461-02ea8e221472.jpg" alt="" class="wp-image-19"/><figcaption><em>Bộ phim có lượt xem rất cao.@Sưu tầm</em></figcaption></figure>
+<figure class="wp-block-image size-full"><img decoding="async" loading="lazy" width="720" height="631" src="https://nhannguyen-bit.github.io/mywordpress/wp-content/uploads/2022/08/8a32c8cd-ca06-4920-a461-02ea8e221472.jpg" alt="" class="wp-image-19"/><figcaption><em>Bộ phim có lượt xem rất cao.@Sưu tầm</em></figcaption></figure>
 
 
 
@@ -404,7 +404,7 @@
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" width="2048" height="1366" src="https://nhannguyen-bit.github.io/mywordpress/wp-content/uploads/2022/08/Dien-Hy-Cong-Luoc-Drama-Story-of-Yanxi-Palace.jpg" alt="" class="wp-image-20"/><figcaption><em>Bộ phim liên tục đứng đầu bảng rating.@Sưu tầm</em></figcaption></figure>
+<figure class="wp-block-image size-full"><img decoding="async" loading="lazy" width="2048" height="1366" src="https://nhannguyen-bit.github.io/mywordpress/wp-content/uploads/2022/08/Dien-Hy-Cong-Luoc-Drama-Story-of-Yanxi-Palace.jpg" alt="" class="wp-image-20"/><figcaption><em>Bộ phim liên tục đứng đầu bảng rating.@Sưu tầm</em></figcaption></figure>
 
 
 
@@ -416,7 +416,7 @@
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" width="1024" height="640" src="https://nhannguyen-bit.github.io/mywordpress/wp-content/uploads/2022/08/Vietsub-EP-72-73-End-HD-Trang-12-We-Fly.jpg" alt="" class="wp-image-21"/><figcaption><em>Mô típ xuyên không với nhiều diễn biến hấp dẫn là điểm thu hút của phim.@Sưu tầm</em></figcaption></figure>
+<figure class="wp-block-image size-full"><img decoding="async" loading="lazy" width="1024" height="640" src="https://nhannguyen-bit.github.io/mywordpress/wp-content/uploads/2022/08/Vietsub-EP-72-73-End-HD-Trang-12-We-Fly.jpg" alt="" class="wp-image-21"/><figcaption><em>Mô típ xuyên không với nhiều diễn biến hấp dẫn là điểm thu hút của phim.@Sưu tầm</em></figcaption></figure>
 
 
 
@@ -428,7 +428,7 @@
 
 
 
-<figure class="wp-block-image size-full is-resized"><img loading="lazy" src="https://nhannguyen-bit.github.io/mywordpress/wp-content/uploads/2022/08/Dien-vien-Co-Kiem-Ky-Dam-sau-ba-nam_-Nguoi-but-pha-manh-me-nguoi-tam-chung-lai.jpg" alt="" class="wp-image-22" width="648" height="364"/><figcaption><em>Dù kinh phí thấp nhưng bộ phim đã gây được tiếng vang dữ dội trong lòng khán giả.@Sưu tầm</em></figcaption></figure>
+<figure class="wp-block-image size-full is-resized"><img decoding="async" loading="lazy" src="https://nhannguyen-bit.github.io/mywordpress/wp-content/uploads/2022/08/Dien-vien-Co-Kiem-Ky-Dam-sau-ba-nam_-Nguoi-but-pha-manh-me-nguoi-tam-chung-lai.jpg" alt="" class="wp-image-22" width="648" height="364"/><figcaption><em>Dù kinh phí thấp nhưng bộ phim đã gây được tiếng vang dữ dội trong lòng khán giả.@Sưu tầm</em></figcaption></figure>
 ]]></content:encoded>
 					
 					<wfw:commentRss>https://nhannguyen-bit.github.io/mywordpress/top-10-bo-phim-co-trang-hay-nhat-nam-2022/feed/</wfw:commentRss>

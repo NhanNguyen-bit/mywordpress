@@ -16,6 +16,34 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.0.3</generator>
-</channel>
+	<generator>https://wordpress.org/?v=6.1</generator>
+	<item>
+		<title>
+		Bởi: nhan		</title>
+		<link>https://nhannguyen-bit.github.io/mywordpress/cac-san-pham-skincare-cho-da-dau-mun/#comment-14</link>
+
+		<dc:creator><![CDATA[nhan]]></dc:creator>
+		<pubDate>Sun, 30 Oct 2022 13:56:28 +0000</pubDate>
+		<guid isPermaLink="false">https://nhannguyen-bit.github.io/mywordpress/?p=1040#comment-14</guid>
+
+					<description><![CDATA[sản phẩm tốt]]></description>
+			<content:encoded><![CDATA[<p>sản phẩm tốt</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Bởi: nhan		</title>
+		<link>https://nhannguyen-bit.github.io/mywordpress/cac-san-pham-skincare-cho-da-dau-mun/#comment-13</link>
+
+		<dc:creator><![CDATA[nhan]]></dc:creator>
+		<pubDate>Sun, 30 Oct 2022 13:56:28 +0000</pubDate>
+		<guid isPermaLink="false">https://nhannguyen-bit.github.io/mywordpress/?p=1040#comment-13</guid>
+
+					<description><![CDATA[sản phẩm tốt]]></description>
+			<content:encoded><![CDATA[<p>sản phẩm tốt</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
 </rss>
