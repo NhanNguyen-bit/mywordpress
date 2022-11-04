@@ -49,10 +49,12 @@ img.emoji {
 .wp-block-navigation a:where(:not(.wp-element-button)){color: inherit;}
 :where(.wp-block-columns.is-layout-flex){gap: 2em;}
 .wp-block-pullquote{font-size: 1.5em;line-height: 1.6;}</style>
+<link rel="stylesheet" id="contact-form-7-css" href="https://nhannguyen-bit.github.io/mywordpress/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.6.4" media="all">
 <link rel="stylesheet" id="woocommerce-layout-css" href="https://nhannguyen-bit.github.io/mywordpress/wp-content/plugins/woocommerce/assets/css/woocommerce-layout.css?ver=7.0.1" media="all">
 <link rel="stylesheet" id="woocommerce-smallscreen-css" href="https://nhannguyen-bit.github.io/mywordpress/wp-content/plugins/woocommerce/assets/css/woocommerce-smallscreen.css?ver=7.0.1" media="only screen and (max-width: 768px)">
 <link rel="stylesheet" id="woocommerce-general-css" href="https://nhannguyen-bit.github.io/mywordpress/wp-content/plugins/woocommerce/assets/css/twenty-twenty-one.css?ver=7.0.1" media="all">
 <style id="woocommerce-inline-inline-css">.woocommerce form .form-row .required { visibility: visible; }</style>
+<link rel="stylesheet" id="pzf-style-css" href="https://nhannguyen-bit.github.io/mywordpress/wp-content/plugins/button-contact-vr/css/style.css?ver=6.1" media="all">
 <link rel="stylesheet" id="hfe-style-css" href="https://nhannguyen-bit.github.io/mywordpress/wp-content/plugins/header-footer-elementor/assets/css/header-footer-elementor.css?ver=1.6.13" media="all">
 <link rel="stylesheet" id="elementor-icons-css" href="https://nhannguyen-bit.github.io/mywordpress/wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min.css?ver=5.16.0" media="all">
 <link rel="stylesheet" id="elementor-frontend-css" href="https://nhannguyen-bit.github.io/mywordpress/wp-content/plugins/elementor/assets/css/frontend-lite.min.css?ver=3.8.0" media="all">
@@ -62,7 +64,26 @@ img.emoji {
 <link rel="stylesheet" id="font-awesome-4-shim-css" href="https://nhannguyen-bit.github.io/mywordpress/wp-content/plugins/elementor/assets/lib/font-awesome/css/v4-shims.min.css?ver=3.8.0" media="all">
 <link rel="stylesheet" id="twenty-twenty-one-style-css" href="https://nhannguyen-bit.github.io/mywordpress/wp-content/themes/twentytwentyone/style.css?ver=1.7" media="all">
 <style id="twenty-twenty-one-style-inline-css">body,input,textarea,button,.button,.faux-button,.wp-block-button__link,.wp-block-file__button,.has-drop-cap:not(:focus)::first-letter,.entry-content .wp-block-archives,.entry-content .wp-block-categories,.entry-content .wp-block-cover-image,.entry-content .wp-block-latest-comments,.entry-content .wp-block-latest-posts,.entry-content .wp-block-pullquote,.entry-content .wp-block-quote.is-large,.entry-content .wp-block-quote.is-style-large,.entry-content .wp-block-archives *,.entry-content .wp-block-categories *,.entry-content .wp-block-latest-posts *,.entry-content .wp-block-latest-comments *,.entry-content p,.entry-content ol,.entry-content ul,.entry-content dl,.entry-content dt,.entry-content cite,.entry-content figcaption,.entry-content .wp-caption-text,.comment-content p,.comment-content ol,.comment-content ul,.comment-content dl,.comment-content dt,.comment-content cite,.comment-content figcaption,.comment-content .wp-caption-text,.widget_text p,.widget_text ol,.widget_text ul,.widget_text dl,.widget_text dt,.widget-content .rssSummary,.widget-content cite,.widget-content figcaption,.widget-content .wp-caption-text { font-family: 'Libre Franklin',sans-serif; }
-:root{--global--color-background: #ffffff;--global--color-primary: #000;--global--color-secondary: #000;--button--color-background: #000;--button--color-text-hover: #000;}</style>
+:root{--global--color-background: #ffffff;--global--color-primary: #000;--global--color-secondary: #000;--button--color-background: #000;--button--color-text-hover: #000;}
+@supports (-webkit-appearance: none) or (-moz-appearance: none) {
+				div.wpforms-container-full .wpforms-form input[type=checkbox] {
+					-webkit-appearance: checkbox;
+					-moz-appearance: checkbox;
+				}
+				div.wpforms-container-full .wpforms-form input[type=radio] {
+					-webkit-appearance: radio;
+					-moz-appearance: radio;
+				}
+				div.wpforms-container-full .wpforms-form input[type=checkbox]:after,
+				div.wpforms-container-full .wpforms-form input[type=radio]:after {
+					content: none;
+				}
+			}
+div.wpforms-container-full form.wpforms-form select {
+				background-image: url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='10' height='10' fill='%2328303d'><polygon points='0,0 10,0 5,5'/></svg>");
+				background-repeat: no-repeat;
+				background-position: right var(--form--spacing-unit) top 60%;
+			}</style>
 <link rel="stylesheet" id="twenty-twenty-one-print-style-css" href="https://nhannguyen-bit.github.io/mywordpress/wp-content/themes/twentytwentyone/assets/css/print.css?ver=1.7" media="print">
 <link rel="stylesheet" id="eael-general-css" href="https://nhannguyen-bit.github.io/mywordpress/wp-content/plugins/essential-addons-for-elementor-lite/assets/front-end/css/view/general.min.css?ver=5.4.2" media="all">
 <link rel="stylesheet" id="google-fonts-1-css" href="https://fonts.googleapis.com/css?family=Oswald%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CNunito+Sans%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CRoboto%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&#038;display=auto&#038;subset=vietnamese&#038;ver=6.1" media="all">
@@ -74,12 +95,18 @@ img.emoji {
 <link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://nhannguyen-bit.github.io/mywordpress/xmlrpc.php?rsd">
 <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://nhannguyen-bit.github.io/mywordpress/wp-includes/wlwmanifest.xml">
 <meta name="generator" content="WordPress 6.1">
+<!--Start of AutoAds Tracking Code-->
+<script id="autoAdsMaxLead-widget-script" src="https://cdn.autoads.asia/scripts/autoads-maxlead-widget.js?business_id=BD827AF4B3034438A6CC751C28BCAEAD" type="text/javascript" charset="UTF-8" async></script>
+<!--End of AutoAds Tracking Code-->
 	<noscript><style>.woocommerce-product-gallery{ opacity: 1 !important; }</style></noscript>
 	<style id="custom-background-css">body.custom-background { background-color: #ffffff; }</style>
 	</head>
 
 <body class="archive tax-product_cat term-t-shirt term-56 custom-background wp-custom-logo wp-embed-responsive theme-twentytwentyone woocommerce woocommerce-page woocommerce-no-js ehf-template-twentytwentyone ehf-stylesheet-twentytwentyone is-light-theme has-background-white no-js hfeed has-main-navigation no-widgets elementor-default elementor-kit-50">
-<svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;"><defs><filter id="wp-duotone-dark-grayscale"><fecolormatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 "></fecolormatrix><fecomponenttransfer color-interpolation-filters="sRGB"><fefuncr type="table" tablevalues="0 0.49803921568627"></fefuncr><fefuncg type="table" tablevalues="0 0.49803921568627"></fefuncg><fefuncb type="table" tablevalues="0 0.49803921568627"></fefuncb><fefunca type="table" tablevalues="1 1"></fefunca></fecomponenttransfer><fecomposite in2="SourceGraphic" operator="in"></fecomposite></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;"><defs><filter id="wp-duotone-grayscale"><fecolormatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 "></fecolormatrix><fecomponenttransfer color-interpolation-filters="sRGB"><fefuncr type="table" tablevalues="0 1"></fefuncr><fefuncg type="table" tablevalues="0 1"></fefuncg><fefuncb type="table" tablevalues="0 1"></fefuncb><fefunca type="table" tablevalues="1 1"></fefunca></fecomponenttransfer><fecomposite in2="SourceGraphic" operator="in"></fecomposite></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;"><defs><filter id="wp-duotone-purple-yellow"><fecolormatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 "></fecolormatrix><fecomponenttransfer color-interpolation-filters="sRGB"><fefuncr type="table" tablevalues="0.54901960784314 0.98823529411765"></fefuncr><fefuncg type="table" tablevalues="0 1"></fefuncg><fefuncb type="table" tablevalues="0.71764705882353 0.25490196078431"></fefuncb><fefunca type="table" tablevalues="1 1"></fefunca></fecomponenttransfer><fecomposite in2="SourceGraphic" operator="in"></fecomposite></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;"><defs><filter id="wp-duotone-blue-red"><fecolormatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 "></fecolormatrix><fecomponenttransfer color-interpolation-filters="sRGB"><fefuncr type="table" tablevalues="0 1"></fefuncr><fefuncg type="table" tablevalues="0 0.27843137254902"></fefuncg><fefuncb type="table" tablevalues="0.5921568627451 0.27843137254902"></fefuncb><fefunca type="table" tablevalues="1 1"></fefunca></fecomponenttransfer><fecomposite in2="SourceGraphic" operator="in"></fecomposite></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;"><defs><filter id="wp-duotone-midnight"><fecolormatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 "></fecolormatrix><fecomponenttransfer color-interpolation-filters="sRGB"><fefuncr type="table" tablevalues="0 0"></fefuncr><fefuncg type="table" tablevalues="0 0.64705882352941"></fefuncg><fefuncb type="table" tablevalues="0 1"></fefuncb><fefunca type="table" tablevalues="1 1"></fefunca></fecomponenttransfer><fecomposite in2="SourceGraphic" operator="in"></fecomposite></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;"><defs><filter id="wp-duotone-magenta-yellow"><fecolormatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 "></fecolormatrix><fecomponenttransfer color-interpolation-filters="sRGB"><fefuncr type="table" tablevalues="0.78039215686275 1"></fefuncr><fefuncg type="table" tablevalues="0 0.94901960784314"></fefuncg><fefuncb type="table" tablevalues="0.35294117647059 0.47058823529412"></fefuncb><fefunca type="table" tablevalues="1 1"></fefunca></fecomponenttransfer><fecomposite in2="SourceGraphic" operator="in"></fecomposite></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;"><defs><filter id="wp-duotone-purple-green"><fecolormatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 "></fecolormatrix><fecomponenttransfer color-interpolation-filters="sRGB"><fefuncr type="table" tablevalues="0.65098039215686 0.40392156862745"></fefuncr><fefuncg type="table" tablevalues="0 1"></fefuncg><fefuncb type="table" tablevalues="0.44705882352941 0.4"></fefuncb><fefunca type="table" tablevalues="1 1"></fefunca></fecomponenttransfer><fecomposite in2="SourceGraphic" operator="in"></fecomposite></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;"><defs><filter id="wp-duotone-blue-orange"><fecolormatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 "></fecolormatrix><fecomponenttransfer color-interpolation-filters="sRGB"><fefuncr type="table" tablevalues="0.098039215686275 1"></fefuncr><fefuncg type="table" tablevalues="0 0.66274509803922"></fefuncg><fefuncb type="table" tablevalues="0.84705882352941 0.41960784313725"></fefuncb><fefunca type="table" tablevalues="1 1"></fefunca></fecomponenttransfer><fecomposite in2="SourceGraphic" operator="in"></fecomposite></filter></defs></svg><div id="page" class="site">
+<svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;"><defs><filter id="wp-duotone-dark-grayscale"><fecolormatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 "></fecolormatrix><fecomponenttransfer color-interpolation-filters="sRGB"><fefuncr type="table" tablevalues="0 0.49803921568627"></fefuncr><fefuncg type="table" tablevalues="0 0.49803921568627"></fefuncg><fefuncb type="table" tablevalues="0 0.49803921568627"></fefuncb><fefunca type="table" tablevalues="1 1"></fefunca></fecomponenttransfer><fecomposite in2="SourceGraphic" operator="in"></fecomposite></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;"><defs><filter id="wp-duotone-grayscale"><fecolormatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 "></fecolormatrix><fecomponenttransfer color-interpolation-filters="sRGB"><fefuncr type="table" tablevalues="0 1"></fefuncr><fefuncg type="table" tablevalues="0 1"></fefuncg><fefuncb type="table" tablevalues="0 1"></fefuncb><fefunca type="table" tablevalues="1 1"></fefunca></fecomponenttransfer><fecomposite in2="SourceGraphic" operator="in"></fecomposite></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;"><defs><filter id="wp-duotone-purple-yellow"><fecolormatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 "></fecolormatrix><fecomponenttransfer color-interpolation-filters="sRGB"><fefuncr type="table" tablevalues="0.54901960784314 0.98823529411765"></fefuncr><fefuncg type="table" tablevalues="0 1"></fefuncg><fefuncb type="table" tablevalues="0.71764705882353 0.25490196078431"></fefuncb><fefunca type="table" tablevalues="1 1"></fefunca></fecomponenttransfer><fecomposite in2="SourceGraphic" operator="in"></fecomposite></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;"><defs><filter id="wp-duotone-blue-red"><fecolormatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 "></fecolormatrix><fecomponenttransfer color-interpolation-filters="sRGB"><fefuncr type="table" tablevalues="0 1"></fefuncr><fefuncg type="table" tablevalues="0 0.27843137254902"></fefuncg><fefuncb type="table" tablevalues="0.5921568627451 0.27843137254902"></fefuncb><fefunca type="table" tablevalues="1 1"></fefunca></fecomponenttransfer><fecomposite in2="SourceGraphic" operator="in"></fecomposite></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;"><defs><filter id="wp-duotone-midnight"><fecolormatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 "></fecolormatrix><fecomponenttransfer color-interpolation-filters="sRGB"><fefuncr type="table" tablevalues="0 0"></fefuncr><fefuncg type="table" tablevalues="0 0.64705882352941"></fefuncg><fefuncb type="table" tablevalues="0 1"></fefuncb><fefunca type="table" tablevalues="1 1"></fefunca></fecomponenttransfer><fecomposite in2="SourceGraphic" operator="in"></fecomposite></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;"><defs><filter id="wp-duotone-magenta-yellow"><fecolormatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 "></fecolormatrix><fecomponenttransfer color-interpolation-filters="sRGB"><fefuncr type="table" tablevalues="0.78039215686275 1"></fefuncr><fefuncg type="table" tablevalues="0 0.94901960784314"></fefuncg><fefuncb type="table" tablevalues="0.35294117647059 0.47058823529412"></fefuncb><fefunca type="table" tablevalues="1 1"></fefunca></fecomponenttransfer><fecomposite in2="SourceGraphic" operator="in"></fecomposite></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;"><defs><filter id="wp-duotone-purple-green"><fecolormatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 "></fecolormatrix><fecomponenttransfer color-interpolation-filters="sRGB"><fefuncr type="table" tablevalues="0.65098039215686 0.40392156862745"></fefuncr><fefuncg type="table" tablevalues="0 1"></fefuncg><fefuncb type="table" tablevalues="0.44705882352941 0.4"></fefuncb><fefunca type="table" tablevalues="1 1"></fefunca></fecomponenttransfer><fecomposite in2="SourceGraphic" operator="in"></fecomposite></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;"><defs><filter id="wp-duotone-blue-orange"><fecolormatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 "></fecolormatrix><fecomponenttransfer color-interpolation-filters="sRGB"><fefuncr type="table" tablevalues="0.098039215686275 1"></fefuncr><fefuncg type="table" tablevalues="0 0.66274509803922"></fefuncg><fefuncb type="table" tablevalues="0.84705882352941 0.41960784313725"></fefuncb><fefunca type="table" tablevalues="1 1"></fefunca></fecomponenttransfer><fecomposite in2="SourceGraphic" operator="in"></fecomposite></filter></defs></svg><!--Start of AutoAds Tracking Code-->
+<script id="autoAdsMaxLead-widget-script" src="https://cdn.autoads.asia/scripts/autoads-maxlead-widget.js?business_id=BD827AF4B3034438A6CC751C28BCAEAD" type="text/javascript" charset="UTF-8" async></script>
+<!--End of AutoAds Tracking Code-->
+<div id="page" class="site">
 	<a class="skip-link screen-reader-text" href="#content">Skip to content</a>
 
 	
@@ -223,7 +250,194 @@ img.emoji {
 </div>
 <!-- #page -->
 
-<script>document.body.classList.remove("no-js");</script>	<script>if ( -1 !== navigator.userAgent.indexOf( 'MSIE' ) || -1 !== navigator.appVersion.indexOf( 'Trident/' ) ) {
+<!--Start of AutoAds Tracking Code-->
+<script id="autoAdsMaxLead-widget-script" src="https://cdn.autoads.asia/scripts/autoads-maxlead-widget.js?business_id=BD827AF4B3034438A6CC751C28BCAEAD" type="text/javascript" charset="UTF-8" async></script>
+<!--End of AutoAds Tracking Code-->
+		<!-- if gom all in one show -->
+				<div id="button-contact-vr" class="active">
+			<div id="gom-all-in-one">
+<!-- v3 -->
+				<!-- contact form -->
+								<!-- end contact form -->
+				
+				<!-- showroom -->
+								<!-- end showroom -->
+
+				<!-- contact -->
+								<div id="contact-vr" class="button-contact">
+					<div class="phone-vr">
+						<div class="phone-vr-circle-fill"></div>
+						<div class="phone-vr-img-circle">
+							<a href="https://www.facebook.com/memories0335">				
+								<img src="https://nhannguyen-bit.github.io/mywordpress/wp-content/plugins/button-contact-vr/img/contact.png">
+							</a>
+						</div>
+					</div>
+					</div>
+								<!-- end contact -->
+
+				<!-- viber -->
+								<!-- end viber -->
+
+				<!-- zalo -->
+								<div id="zalo-vr" class="button-contact">
+					<div class="phone-vr">
+						<div class="phone-vr-circle-fill"></div>
+						<div class="phone-vr-img-circle">
+							<a target="_blank" href="https://zalo.me/0866420397">				
+								<img src="https://nhannguyen-bit.github.io/mywordpress/wp-content/plugins/button-contact-vr/img/zalo.png">
+							</a>
+						</div>
+					</div>
+					</div>
+								<!-- end zalo -->
+
+				<!-- whatsapp -->
+								<!-- end whatsapp -->
+
+				<!-- Phone -->
+								<div id="phone-vr" class="button-contact">
+					<div class="phone-vr">
+						<div class="phone-vr-circle-fill"></div>
+						<div class="phone-vr-img-circle">
+							<a href="tel:0866420397">				
+								<img src="https://nhannguyen-bit.github.io/mywordpress/wp-content/plugins/button-contact-vr/img/phone.png">
+							</a>
+						</div>
+					</div>
+					</div>
+											<div class="phone-bar phone-bar-n">
+							<a href="tel:0866420397">
+								<span class="text-phone">0866420397</span>
+							</a>
+						</div>
+					
+								<!-- end phone -->
+			</div>
+<!-- end v3 class gom-all-in-one -->
+
+							<div id="all-in-one-vr" class="button-contact">
+					<div class="phone-vr">
+						<div class="phone-vr-circle-fill"></div>
+						<div class="phone-vr-img-circle">			
+							<img src="https://nhannguyen-bit.github.io/mywordpress/wp-content/plugins/button-contact-vr/img/icon4.png">
+						</div>
+					</div>					
+									</div>				
+				<style type="text/css">.phone-bar-n{display: none;}</style>
+			
+		</div>
+<!-- popup form -->
+<div id="popup-form-contact-vr">
+	<div class="bg-popup-vr"></div>
+	<div class="content-popup-vr" id="loco-left">
+		
+		<div class="content-popup-div-vr">
+									
+		</div>	
+
+		
+		<div class="close-popup-vr">x</div>
+	</div>
+</div>
+
+<!-- Add custom css and js -->
+	<style type="text/css"></style>
+	<!-- end Add custom css and js -->
+<!-- popup showroom -->
+<div id="popup-showroom-vr">
+	<div class="bg-popup-vr"></div>
+	<div class="content-popup-vr" id="loco-left">
+		
+		<div class="content-popup-div-vr">
+						
+		</div>	
+		<div class="close-popup-vr">x</div>
+	</div>
+</div>
+
+<script type="text/javascript">jQuery(document).ready(function($){
+	    $('#all-in-one-vr').click(function(){
+		    $('#button-contact-vr').toggleClass('active');
+		})
+	    $('#contact-form-vr').click(function(){
+		    $('#popup-form-contact-vr').addClass('active');
+		})
+		$('div#popup-form-contact-vr .bg-popup-vr,div#popup-form-contact-vr .content-popup-vr .close-popup-vr').click(function(){
+			$('#popup-form-contact-vr').removeClass('active');
+		})
+	    $('#contact-showroom').click(function(){
+		    $('#popup-showroom-vr').addClass('active');
+		})
+		$('div#popup-showroom-vr .bg-popup-vr,.content-popup-vr .close-popup-vr').click(function(){
+			$('#popup-showroom-vr').removeClass('active');
+		})
+	});</script>
+<!-- end popup form -->
+
+			<!-- Facebook Messenger -->
+							<!-- Load Facebook SDK for JavaScript -->
+				<div id="fb-root"></div>
+				<script>window.fbAsyncInit = function() {
+				    FB.init({
+				      xfbml            : true,
+				      version          : 'v3.3'
+				    });
+				  };
+
+				  (function(d, s, id) {
+				  var js, fjs = d.getElementsByTagName(s)[0];
+				  if (d.getElementById(id)) return;
+				  js = d.createElement(s); js.id = id;
+				  js.src = 'https://connect.facebook.net/vi_VN/sdk/xfbml.customerchat.js';
+				  fjs.parentNode.insertBefore(js, fjs);
+				}(document, 'script', 'facebook-jssdk'));</script>
+
+		<!-- Your customer chat code -->
+		<div class="fb-customerchat" attribution="setup_tool" page_id="100040607956659" theme_color="#8224e3" logged_in_greeting="Xin chào! Chúng tôi có thể giúp gì cho bạn!" logged_out_greeting="Xin chào! Chúng tôi có thể giúp gì cho bạn!">
+		</div>
+			
+		
+							<!-- color phone -->
+				<style>.phone-bar a,#phone-vr .phone-vr-circle-fill,#phone-vr .phone-vr-img-circle,#phone-vr .phone-bar a {
+					    background-color: #81d742;
+					}
+					#phone-vr .phone-vr-circle-fill {
+					    opacity: 0.7;box-shadow: 0 0 0 0 #81d742;
+					}</style>
+				<!-- color phone -->
+					
+							<!-- color contact form -->
+				<style>.phone-bar a,#contact-form-vr .phone-vr-circle-fill,#contact-form-vr .phone-vr-img-circle,#contact-form-vr .phone-bar a {
+					    background-color: #8224e3;
+					}
+					#contact-form-vr .phone-vr-circle-fill {
+					    opacity: 0.7;box-shadow: 0 0 0 0 #8224e3;
+					}</style>
+				<!-- color contact form -->
+							<style>#contact-vr .phone-vr-circle-fill,#contact-vr .phone-vr-img-circle {
+			    background-color: #dd3333;
+			}
+			#contact-vr .phone-vr-circle-fill {
+			    opacity: 0.7;box-shadow: 0 0 0 0 #dd3333;
+			}</style>
+									<!-- color all in one -->
+		<style>#all-in-one-vr .phone-vr-circle-fill,#all-in-one-vr .phone-vr-img-circle {
+			    background-color: #8224e3;
+			}
+			#all-in-one-vr .phone-vr-circle-fill {
+			    opacity: 0.7;box-shadow: 0 0 0 0 #8224e3;
+			}</style>
+			
+		
+				<!-- location left right -->
+		<style>#button-contact-vr {right:0;}
+			.phone-bar a {left: auto;right: 30px;padding: 8px 55px 7px 15px;}
+			#button-contact-vr.active #gom-all-in-one .button-contact {margin-left: 100%;}</style>
+			
+		
+		
+		<script>document.body.classList.remove("no-js");</script>	<script>if ( -1 !== navigator.userAgent.indexOf( 'MSIE' ) || -1 !== navigator.appVersion.indexOf( 'Trident/' ) ) {
 		document.body.classList.add( 'is-IE' );
 	}</script>
 	<script type="application/ld+json">{"@context":"https:\/\/schema.org\/","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"item":{"name":"Trang chủ","@id":"https:\/\/nhannguyen-bit.github.io\/mywordpress"}},{"@type":"ListItem","position":2,"item":{"name":"T-shirt","@id":"https:\/\/nhannguyen-bit.github.io\/mywordpress\/product-category\/t-shirt\/"}}]}</script>	<script type="text/javascript">(function () {
@@ -231,7 +445,10 @@ img.emoji {
 			c = c.replace(/woocommerce-no-js/, 'woocommerce-js');
 			document.body.className = c;
 		})();</script>
-	<script src="https://nhannguyen-bit.github.io/mywordpress/wp-content/plugins/woocommerce/assets/js/jquery-blockui/jquery.blockUI.min.js?ver=2.7.0-wc.7.0.1" id="jquery-blockui-js"></script>
+	<script src="https://nhannguyen-bit.github.io/mywordpress/wp-content/plugins/contact-form-7/includes/swv/js/index.js?ver=5.6.4" id="swv-js"></script>
+<script id="contact-form-7-js-extra">var wpcf7 = {"api":{"root":"https:\/\/nhannguyen-bit.github.io\/mywordpress\/wp-json\/","namespace":"contact-form-7\/v1"}};</script>
+<script src="https://nhannguyen-bit.github.io/mywordpress/wp-content/plugins/contact-form-7/includes/js/index.js?ver=5.6.4" id="contact-form-7-js"></script>
+<script src="https://nhannguyen-bit.github.io/mywordpress/wp-content/plugins/woocommerce/assets/js/jquery-blockui/jquery.blockUI.min.js?ver=2.7.0-wc.7.0.1" id="jquery-blockui-js"></script>
 <script id="wc-add-to-cart-js-extra">var wc_add_to_cart_params = {"ajax_url":"\/myproject\/wordpress\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/myproject\/wordpress\/?wc-ajax=%%endpoint%%&elementor_page_id=56","i18n_view_cart":"Xem giỏ hàng","cart_url":"https:\/\/nhannguyen-bit.github.io\/mywordpress\/cart\/","is_cart":"","cart_redirect_after_add":"yes"};</script>
 <script src="https://nhannguyen-bit.github.io/mywordpress/wp-content/plugins/woocommerce/assets/js/frontend/add-to-cart.min.js?ver=7.0.1" id="wc-add-to-cart-js"></script>
 <script src="https://nhannguyen-bit.github.io/mywordpress/wp-content/plugins/woocommerce/assets/js/js-cookie/js.cookie.min.js?ver=2.1.4-wc.7.0.1" id="js-cookie-js"></script>
@@ -244,9 +461,11 @@ img.emoji {
 </script>
 <script src="https://nhannguyen-bit.github.io/mywordpress/wp-content/themes/twentytwentyone/assets/js/primary-navigation.js?ver=1.7" id="twenty-twenty-one-primary-navigation-script-js"></script>
 <script src="https://nhannguyen-bit.github.io/mywordpress/wp-content/themes/twentytwentyone/assets/js/responsive-embeds.js?ver=1.7" id="twenty-twenty-one-responsive-embeds-script-js"></script>
-<script id="eael-general-js-extra">var localize = {"ajaxurl":"https:\/\/nhannguyen-bit.github.io\/mywordpress\/wp-admin\/admin-ajax.php","nonce":"4635c27448","i18n":{"added":"Added ","compare":"Compare","loading":"Loading..."},"page_permalink":"https:\/\/nhannguyen-bit.github.io\/mywordpress\/product\/straight-fit-leather-trousers\/","cart_redirectition":"yes","cart_page_url":"https:\/\/nhannguyen-bit.github.io\/mywordpress\/cart\/","el_breakpoints":{"mobile":{"label":"Thiết bị di động","value":767,"default_value":767,"direction":"max","is_enabled":true},"mobile_extra":{"label":"Mobile Extra","value":880,"default_value":880,"direction":"max","is_enabled":false},"tablet":{"label":"Máy tính bảng","value":1024,"default_value":1024,"direction":"max","is_enabled":true},"tablet_extra":{"label":"Tablet Extra","value":1200,"default_value":1200,"direction":"max","is_enabled":false},"laptop":{"label":"Laptop","value":1366,"default_value":1366,"direction":"max","is_enabled":false},"widescreen":{"label":"Widescreen","value":2400,"default_value":2400,"direction":"min","is_enabled":false}}};</script>
+<script id="eael-general-js-extra">var localize = {"ajaxurl":"https:\/\/nhannguyen-bit.github.io\/mywordpress\/wp-admin\/admin-ajax.php","nonce":"a91b060d76","i18n":{"added":"Added ","compare":"Compare","loading":"Loading..."},"page_permalink":"https:\/\/nhannguyen-bit.github.io\/mywordpress\/product\/straight-fit-leather-trousers\/","cart_redirectition":"yes","cart_page_url":"https:\/\/nhannguyen-bit.github.io\/mywordpress\/cart\/","el_breakpoints":{"mobile":{"label":"Thiết bị di động","value":767,"default_value":767,"direction":"max","is_enabled":true},"mobile_extra":{"label":"Mobile Extra","value":880,"default_value":880,"direction":"max","is_enabled":false},"tablet":{"label":"Máy tính bảng","value":1024,"default_value":1024,"direction":"max","is_enabled":true},"tablet_extra":{"label":"Tablet Extra","value":1200,"default_value":1200,"direction":"max","is_enabled":false},"laptop":{"label":"Laptop","value":1366,"default_value":1366,"direction":"max","is_enabled":false},"widescreen":{"label":"Widescreen","value":2400,"default_value":2400,"direction":"min","is_enabled":false}}};</script>
 <script src="https://nhannguyen-bit.github.io/mywordpress/wp-content/plugins/essential-addons-for-elementor-lite/assets/front-end/js/view/general.min.js?ver=5.4.2" id="eael-general-js"></script>
 		<script>/(trident|msie)/i.test(navigator.userAgent)&&document.getElementById&&window.addEventListener&&window.addEventListener("hashchange",(function(){var t,e=location.hash.substring(1);/^[A-z0-9_-]+$/.test(e)&&(t=document.getElementById(e))&&(/^(?:a|select|input|button|textarea)$/i.test(t.tagName)||(t.tabIndex=-1),t.focus())}),!1);</script>
-		
+		<!--Start of AutoAds Tracking Code-->
+<script id="autoAdsMaxLead-widget-script" src="https://cdn.autoads.asia/scripts/autoads-maxlead-widget.js?business_id=BD827AF4B3034438A6CC751C28BCAEAD" type="text/javascript" charset="UTF-8" async></script>
+<!--End of AutoAds Tracking Code-->
 </body>
 </html>
