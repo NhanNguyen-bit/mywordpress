@@ -12,13 +12,21 @@
 	<atom:link href="https://nhannguyen-bit.github.io/mywordpress/feed/" rel="self" type="application/rss+xml" />
 	<link>https://nhannguyen-bit.github.io/mywordpress</link>
 	<description>Một trang web mới sử dụng WordPress</description>
-	<lastBuildDate>Thu, 03 Nov 2022 06:16:01 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 09 Nov 2022 11:53:40 +0000</lastBuildDate>
 	<language>vi</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=6.1</generator>
+
+<image>
+	<url>https://nhannguyen-bit.github.io/mywordpress/wp-content/uploads/2022/09/logo.png</url>
+	<title>My WordPress</title>
+	<link>https://nhannguyen-bit.github.io/mywordpress</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
 	<item>
 		<title>Skincare</title>
 		<link>https://nhannguyen-bit.github.io/mywordpress/cac-san-pham-skincare-cho-da-dau-mun/</link>
